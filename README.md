@@ -5,5 +5,4 @@
 * Step 2. run_saliencymap
 * 
 * NOTE:
-* For requesting the link and the password to download the results of this paper, please contact Zhi Liu 
-* http://www.ivp.shu.edu.cn/Default.aspx?tabid=31923
+* For requesting the link and the password to download the results of this paper, please contact Zhi Liu (http://www.ivp.shu.edu.cn/Default.aspx?tabid=31923)
